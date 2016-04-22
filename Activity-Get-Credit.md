@@ -1,0 +1,3 @@
+#Activites: Get Credit
+
+```stub```
