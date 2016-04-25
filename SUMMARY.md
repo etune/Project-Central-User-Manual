@@ -5,7 +5,7 @@
 
   - [Details](Activity-Details.md)
   - [Publishing Options](Activity-Publishing-Options.md)
-  - [Accreditation](Activity-Accreditation)
+  - [Accreditation](Activity-Accreditation.md)
   - [Location](Activity-Location.md)
   - [Options](Activity-Options.md)
   - [Get Credit](Activity-Get-Credit.md)
