@@ -11,6 +11,7 @@
 ##Minutes per unit
     (e.g. 60)
 ##Rounding type: 
+     deals with the automatic calculation of credits in regards to sessions
 ##Sub­type required?
 ##Credit instructions
     (OPTIONAL) (e.g. Must have CHES certification number in the Primary License/Certification
