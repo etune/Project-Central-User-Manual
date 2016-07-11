@@ -11,5 +11,5 @@
   - [Get Credit](Activity-Get-Credit.md)
   - [Outcomes](Activity-Outcomes.md)
   - [Topics](Activity-Topics.md)
-  - [New Certificate Requests(New-Certificate-Requests.md)
+  - [New Certificate Requests](New-Certificate-Requests.md)
   - Place Holder
